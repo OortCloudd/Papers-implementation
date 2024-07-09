@@ -9,7 +9,7 @@
 
 
 
-## Totalcount : (0/32)
+## Totalcount : (0/34)
 
 ## 01-deep-neural-networks
 
@@ -32,6 +32,8 @@
 | layer-norm      |     |
 | gelu            |     |
 | adam            |     |
+| decay-regular   |     |
+| adagrad         |     |
 | early-stopping  |     |
 
 ## 03-sequence-modeling
@@ -85,6 +87,7 @@
 - [ ]  **GELU** - Gaussian Error Linear Units (GELUs) (2016), D. Hendrycks and K. Gimpel [[PDF]](https://arxiv.org/pdf/1606.08415)
 - [ ]  **Adam** - Adam: A Method for Stochastic Optimization (2014), D. P. Kingma and J. Ba [[PDF]](https://arxiv.org/pdf/1412.6980)
 - [ ]  **Decoupled Weight Decay Regularization** - Decoupled Weight Decay Regularization (2017), I. Loshchilov and F. Hutter [[PDF]](https://arxiv.org/pdf/1711.05101)
+- [ ]  **Adagrad** - Adaptive Subgradient Methods for Online Learning and Stochastic Optimization (2011), J. Duchi, E. Hazan and Y. Singer [[PDF]](https://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
 - [ ]  **RNN** - A Learning Algorithm for Continually Running Fully Recurrent Neural Networks (1989), R. J. Williams [[PDF]](https://gwern.net/doc/ai/nn/rnn/1989-williams-2.pdf)
 - [ ]  **LSTM** - Long-Short Term Memory (1997), S. Hochreiter and J. Schmidhuber [[PDF]](https://www.bioinf.jku.at/publications/older/2604.pdf)
 - [ ]  **Learning to Forget** - Learning to Forget: Continual Prediction with LSTM (2000), F. A. Gers et al. [[PDF]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=e10f98b86797ebf6c8caea6f54cacbc5a50e8b34)
